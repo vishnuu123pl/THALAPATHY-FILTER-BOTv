@@ -111,7 +111,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Hassanaliuuq/THALAPATHY-FILTER-BOTv">
+<a href="https://heroku.com/deploy?template=https://github.com/MultiRacer/THALAPATHY-FILTER-BOTv">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
